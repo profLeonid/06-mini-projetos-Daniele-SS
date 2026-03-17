@@ -123,3 +123,18 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+.status-aprovado {
+  border: 2px solid #14532d;
+  box-shadow: 0 0 16px #14532d;
+}
+
+.status-recuperacao {
+  border: 2px solid #713f12;
+  box-shadow: 0 0 16px #713f12;
+}
+
+.status-reprovado {
+  border: 2px solid #7f1d1d;
+  box-shadow: 0 0 16px #7f1d1d;
+}
