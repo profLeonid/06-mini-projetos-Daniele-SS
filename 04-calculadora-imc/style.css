@@ -123,3 +123,33 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+.status-abaixo-peso {
+  border: 2px solid #1e3a5f;
+  box-shadow: 0 0 16px #1e3a5f;
+}
+
+.status-peso-normal {
+  border: 2px solid #14532d;
+  box-shadow: 0 0 16px #14532d;
+}
+
+.status-sobrepeso {
+  border: 2px solid #713f12;
+  box-shadow: 0 0 16px #713f12;
+}
+
+.status-obesidade-1 {
+  border: 2px solid #7f1d1d;
+  box-shadow: 0 0 16px #7f1d1d;
+}
+
+.status-obesidade-2 {
+  border: 2px solid #6b0f0f;
+  box-shadow: 0 0 16px #6b0f0f;
+}
+
+.status-obesidade-3 {
+  border: 2px solid #450a0a;
+  box-shadow: 0 0 16px #450a0a;
+}
