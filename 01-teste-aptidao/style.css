@@ -122,3 +122,13 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+.status-apto {
+  border: 2px solid #14532d;
+  box-shadow: 0 0 16px #14532d;
+}
+
+.status-nao-apto {
+  border: 2px solid #7f1d1d;
+  box-shadow: 0 0 16px #7f1d1d;
+}
